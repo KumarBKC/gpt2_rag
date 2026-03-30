@@ -1,15 +1,26 @@
-from transformers import GPT2LMHeadModel, GPT2Tokenizer
+from src.generator import RAGGenerator
 
-# Path to your GPT-2 folder
-model_path = "C:/AI.ML WORK/gpt2_rag"
+def main():
+    print("Testing local GPT-2 model loading...")
+    
+    try:
+        # Load from the new modular system
+        # We specify the paths relative to the root
+        rag = RAGGenerator(
+            model_path="models/gpt2",
+            index_path="data/index"
+        )
+        print("✅ GPT-2 and FAISS loaded successfully!")
+        
+        # Simple test generation
+        test_query = "Hello!"
+        print(f"Test Query: {test_query}")
+        print("Thinking...")
+        response = rag.generate_answer(test_query)
+        print(f"GPT-2 Response: {response}")
+        
+    except Exception as e:
+        print(f"❌ Test failed: {e}")
 
-# Load tokenizer and model
-tokenizer = GPT2Tokenizer.from_pretrained(model_path)
-model = GPT2LMHeadModel.from_pretrained(model_path)
-
-print("GPT-2 loaded successfully!")
-
-# Test generation
-inputs = tokenizer("Hello world!", return_tensors="pt")
-outputs = model.generate(**inputs, max_length=50)
-print(tokenizer.decode(outputs[0], skip_special_tokens=True))
+if __name__ == "__main__":
+    main()
