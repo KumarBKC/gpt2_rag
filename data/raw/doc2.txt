@@ -172,3 +172,177 @@ Energy use
 Estimates of the Internet's electricity usage have been the subject of controversy, according to a 2014 peer-reviewed research paper that found claims differing by a factor of 20,000 published in the literature during the preceding decade, ranging from 0.0064 kilowatt hours per gigabyte transferred (kWh/GB) to 136 kWh/GB.[187] The researchers attributed these discrepancies mainly to the year of reference (i.e. whether efficiency gains over time had been taken into account) and to whether "end devices such as personal computers and servers are included" in the analysis.
 
 In 2011, academic researchers estimated the overall energy used by the Internet to be between 170 and 307 GW, less than two percent of the energy used by humanity. This estimate included the energy needed to build, operate, and periodically replace the estimated 750 million laptops, a billion smart phones and 100 million servers worldwide as well as the energy that routers, cell towers, optical switches, Wi-Fi transmitters and cloud storage devices use when transmitting Internet traffic.[188][189] According to a non-peer-reviewed study published in 2018 by The Shift Project (a French think tank funded by corporate sponsors), nearly 4% of global CO2 emissions could be attributed to global data transfer and the necessary infrastructure.[190] The study also said that online video streaming alone accounted for 60% of this data transfer and therefore contributed to over 300 million tons of CO2 emission per year, and argued for new "digital sobriety" regulations restricting the use and size of video files.[191]
+Applications and services
+The Internet carries many applications and services, most prominently the World Wide Web, including social media, electronic mail, mobile applications, multiplayer online games, Internet telephony, file sharing, and streaming media services.
+
+World Wide Web
+Main article: World Wide Web
+
+This NeXT Computer was used by Tim Berners-Lee at CERN and became the world's first Web server.
+The World Wide Web is a global collection of documents, images, multimedia, applications, and other resources, logically interrelated by hyperlinks and referenced with Uniform Resource Identifiers (URIs), which provide a global system of named references. URIs symbolically identify services, web servers, databases, and the documents and resources that they can provide.[130]
+
+HyperText Transfer Protocol (HTTP) is the main access protocol of the World Wide Web. Web services also use HTTP for communication between software systems for information transfer, sharing and exchanging business data and logistics and is one of many languages or protocols that can be used for communication on the Internet.[130]
+
+World Wide Web browser software, such as Microsoft Edge, Mozilla Firefox, Opera, Apple's Safari, and Google Chrome, enable users to navigate from one web page to another via the hyperlinks embedded in the documents. These documents may also contain computer data, including graphics, sounds, text, video, multimedia and interactive content. Client-side scripts can include animations, games, office applications and scientific demonstrations.
+
+Communication
+Email is an important communications service available via the Internet. The concept of sending electronic text messages between parties, analogous to mailing letters or memos, predates the creation of the Internet.[131][132]
+
+Internet telephony is a common communications service realized with the Internet. The name of the principal internetworking protocol, the Internet Protocol, lends its name to voice over Internet Protocol (VoIP).[citation needed] VoIP systems now dominate many markets, being as easy and convenient as a traditional telephone, while having substantial cost savings, especially over long distances.[133]
+
+File sharing
+File sharing is the practice of transferring large amounts of data in the form of computer files across the Internet, for example via file servers. The load of bulk downloads to many users can be eased by the use of "mirror" servers or peer-to-peer networks.
+
+Access to the file may be controlled by user authentication, the transit of the file over the Internet may be obscured by encryption, and money may change hands for access to the file. The price can be paid by the remote charging of funds from, for example, a credit card whose details are also passed—usually fully encrypted—across the Internet. The origin and authenticity of the file received may be checked by a digital signature.[134]
+
+Governance
+Main article: Internet governance
+
+ICANN headquarters in the Playa Vista neighborhood of Los Angeles, California, United States
+The Internet is a global network that comprises many voluntarily interconnected autonomous networks. It operates without a central governing body.
+
+IETF
+The technical underpinning and standardization of the core protocols (IPv4 and IPv6) is an activity of the Internet Engineering Task Force (IETF), a non-profit organization of loosely affiliated international participants that anyone may associate with by contributing technical expertise.[135]
+
+While the hardware components in the Internet infrastructure can often be used to support other software systems, it is the design and the standardization process of the software that characterizes the Internet and provides the foundation for its scalability and success. The responsibility for the architectural design of the Internet software systems has been assumed by the IETF.[136]
+
+The IETF conducts standard-setting work groups, open to any individual, about the various aspects of Internet architecture. The resulting contributions and standards are published as Request for Comments (RFC) documents on the IETF web site. The principal methods of networking that enable the Internet are contained in specially designated RFCs that constitute the Internet Standards. Other less rigorous documents are simply informative, experimental, or historical, or document the best current practices when implementing Internet technologies.
+
+ICANN
+To maintain interoperability, the principal name spaces of the Internet are administered by the Internet Corporation for Assigned Names and Numbers (ICANN). ICANN is governed by an international board of directors drawn from across the Internet technical, business, academic, and other non-commercial communities. The organization coordinates the assignment of unique identifiers for use on the Internet, including domain names, IP addresses, application port numbers in the transport protocols, and many other parameters. Globally unified name spaces are essential for maintaining the global reach of the Internet. This role of ICANN distinguishes it as perhaps the only central coordinating body for the global Internet.[137]
+
+The National Telecommunications and Information Administration, an agency of the United States Department of Commerce, had final approval over changes to the DNS root zone until the IANA stewardship transition on 1 October 2016.[138][139][140][141]
+
+Regional internet registries
+Regional Internet registries (RIRs) were established for five regions of the world to assign IP address blocks and other Internet parameters to local registries, such as Internet service providers, from a designated pool of addresses set aside for each region:[citation needed]
+
+The African Network Information Center (AfriNIC) for Africa
+The American Registry for Internet Numbers (ARIN) for North America
+The Asia–Pacific Network Information Centre (APNIC) for Asia and the Pacific region
+The Latin American and Caribbean Internet Addresses Registry (LACNIC) for Latin America and the Caribbean region
+The Réseaux IP Européens – Network Coordination Centre (RIPE NCC) for Europe, the Middle East, and Central Asia.
+Other groups
+The Internet Society (ISOC) was founded in 1992 with a mission to "assure the open development, evolution and use of the Internet for the benefit of all people throughout the world".[142] Its members include individuals as well as corporations, organizations, governments, and universities. Among other activities ISOC provides an administrative home for a number of less formally organized groups that are involved in developing and managing the Internet, including: the Internet Engineering Task Force (IETF), Internet Architecture Board (IAB), Internet Engineering Steering Group (IESG), Internet Research Task Force (IRTF), and Internet Research Steering Group (IRSG).
+
+On 16 November 2005, the United Nations-sponsored World Summit on the Information Society in Tunis established the Internet Governance Forum (IGF) to discuss Internet-related issues.[citation needed]
+
+Infrastructure
+See also: List of countries by number of Internet users and List of countries by Internet connection speeds
+
+2007 map showing submarine fiberoptic telecommunication cables around the world
+The communications infrastructure of the Internet consists of its hardware components and a system of software layers that control various aspects of the architecture. As with any computer network, the Internet physically consists of routers, media (such as cabling and radio links), repeaters, and modems. However, as an example of internetworking, many of the network nodes are not necessarily Internet equipment per se. Internet packets are carried by other full-fledged networking protocols, with the Internet acting as a homogeneous networking standard, running across heterogeneous hardware, with the packets guided to their destinations by IP routers.[citation needed]
+
+Service tiers
+
+Packet routing across the Internet involves several tiers of Internet service providers.
+Internet service providers (ISPs) establish worldwide connectivity between individual networks at various levels of scope. At the top of the routing hierarchy are the tier 1 networks, large telecommunication companies that exchange traffic directly with each other via very high speed fiber-optic cables and governed by peering agreements. Tier 2 and lower-level networks buy Internet transit from other providers to reach at least some parties on the global Internet, though they may also engage in peering. End-users who only access the Internet when needed to perform a function or obtain information, represent the bottom of the routing hierarchy.[citation needed]
+
+An ISP may use a single upstream provider for connectivity, or implement multihoming to achieve redundancy and load balancing. Internet exchange points are major traffic exchanges with physical connections to multiple ISPs. Large organizations, such as academic institutions, large enterprises, and governments, may perform the same function as ISPs, engaging in peering and purchasing transit on behalf of their internal networks. Research networks tend to interconnect with large subnetworks such as GEANT, GLORIAD, Internet2, and the UK's national research and education network, JANET.[citation needed]
+
+Access
+Common methods of Internet access by users include broadband over coaxial cable, fiber optics or copper wires, Wi-Fi, satellite, and cellular telephone technology.[citation needed] Grassroots efforts have led to wireless community networks. Commercial Wi-Fi services that cover large areas are available in many cities, such as New York, London, Vienna, Toronto, San Francisco, Philadelphia, Chicago and Pittsburgh.[143]
+
+Data centers
+Most servers that provide internet services are today hosted in data centers, and content is often accessed through high-performance content delivery networks.
+
+Colocation centers often host private peering connections between their customers, internet transit providers, cloud providers,[144][145] meet-me rooms for connecting customers together,[146] Internet exchange points,[147][148] and landing points and terminal equipment for fiber optic submarine communication cables,[149] connecting the internet.[150]
+
+Internet Protocol Suite
+Internet protocol suite
+Application layer
+BGPDHCP (v6)DNSFTPHTTP (HTTP/3)HTTPSIMAPIPPIRCLDAPMGCPMQTTNNTPNTPOSPFPOPPTPONC/RPCRTPRTSPRIPSIPSMTPSNMPSSHTelnetTLS/SSLXMPPmore...
+Transport layer
+TCPUDPDCCPSCTPRSVPQUICmore...
+Internet layer
+IP v4v6ICMP (v6)NDPECNIGMPIPsecmore...
+Link layer
+ARPTunnelsPPPMACmore...
+vte
+The Internet standards describe a framework known as the Internet protocol suite (also called TCP/IP, based on the first two components.) This is a suite of protocols that are ordered into a set of four conceptional layers by the scope of their operation, originally documented in RFC 1122 and RFC 1123:[citation needed]
+
+At the top is the application layer, where communication is described in terms of the objects or data structures most appropriate for each application. For example, a web browser operates in a client–server application model and exchanges information with the HyperText Transfer Protocol (HTTP) and an application-germane data structure, such as the HyperText Markup Language (HTML).[citation needed]
+Below this top layer, the transport layer connects applications on different hosts with a logical channel through the network. It provides this service with a variety of possible characteristics, such as ordered, reliable delivery (TCP), and an unreliable datagram service (UDP).[citation needed]
+Underlying these layers are the networking technologies that interconnect networks at their borders and exchange traffic across them. The Internet layer implements the Internet Protocol (IP) which enables computers to identify and locate each other by IP address and route their traffic via intermediate transit networks.[151] The Internet Protocol layer code is independent of the type of network that it is physically running over.[citation needed]
+At the bottom of the architecture is the link layer, which connects nodes on the same physical link, and contains protocols that do not require routers for traversal to other links. The protocol suite does not explicitly specify hardware methods to transfer bits, or protocols to manage such hardware, but assumes that appropriate technology is available. Examples of that technology include Wi-Fi, Ethernet, and DSL.[citation needed]
+
+As user data is processed through the protocol stack, each abstraction layer adds encapsulation information at the sending host. Data is transmitted over the wire at the link level between hosts and routers. Encapsulation is removed by the receiving host. Intermediate relays update link encapsulation at each hop, and inspect the IP layer for routing purposes.
+Internet protocol
+
+Conceptual data flow in a simple network topology of two hosts (A and B) connected by a link between their respective routers. The application on each host executes read and write operations as if the processes were directly connected to each other by some kind of data pipe. After the establishment of this pipe, most details of the communication are hidden from each process, as the underlying principles of communication are implemented in the lower protocol layers.
+The most prominent component of the Internet model is the Internet Protocol. IP enables internetworking, essentially establishing the Internet itself. Two versions of the Internet Protocol exist, IPv4 and IPv6.[citation needed] Aside from the complex array of physical connections that make up its infrastructure, the Internet is facilitated by bi- or multi-lateral commercial contracts (e.g., peering agreements), and by technical specifications or protocols that describe the exchange of data over the network.[citation needed]
+
+IP Addresses
+
+A DNS resolver consults three name servers to resolve the domain name user-visible "www.wikipedia.org" to determine the IPv4 Address 207.142.131.234.
+For locating individual computers on the network, the Internet provides IP addresses. IP addresses are used by the Internet infrastructure to direct internet packets to their destinations. They consist of fixed-length numbers, which are found within the packet. IP addresses are generally assigned to equipment either automatically via Dynamic Host Configuration Protocol, or are configured.[citation needed]
+
+Domain Name Systems convert user-inputted domain names (e.g. "en.wikipedia.org") into IP addresses.[citation needed]
+
+IPv4
+Internet Protocol version 4 (IPv4) defines an IP address as a 32-bit number.[151] IPv4 is the initial version used on the first generation of the Internet and is still in dominant use. It was designed in 1981 to address up to ≈4.3 billion (109) hosts. However, the explosive growth of the Internet has led to IPv4 address exhaustion, which entered its final stage in 2011,[152] when the global IPv4 address allocation pool was exhausted.
+
+IPv6
+Because of the growth of the Internet and the depletion of available IPv4 addresses, a new version of IP IPv6, was developed in the mid-1990s, which provides vastly larger addressing capabilities and more efficient routing of Internet traffic. IPv6 uses 128 bits for the IP address and was standardized in 1998.[153][154][155] IPv6 deployment has been ongoing since the mid-2000s and is currently in growing deployment around the world, since Internet address registries began to urge all resource managers to plan rapid adoption and conversion.[156]
+
+By design, IPv6 is not directly interoperable with IPv4. Instead, it establishes a parallel version of the Internet not directly accessible with IPv4 software. Thus, translation facilities exist for internetworking, and some nodes have duplicate networking software for both networks. Essentially all modern computer operating systems support both versions of the Internet Protocol.[citation needed] Network infrastructure, however, has been lagging in this development.[citation needed]
+
+Subnets
+
+Creating a subnet by dividing the host identifier
+A subnet or subnetwork is a logical subdivision of an IP network.[157]: 1, 16  Computers that belong to a subnet are addressed with an identical most-significant bit-group in their IP addresses. This results in the logical division of an IP address into two fields, the network number or routing prefix and the rest field or host identifier. The rest field is an identifier for a specific host or network interface.[citation needed]
+
+The routing prefix may be expressed in Classless Inter-Domain Routing (CIDR) notation written as the first address of a network, followed by a slash character (/), and ending with the bit-length of the prefix. For example, 198.51.100.0/24 is the prefix of the Internet Protocol version 4 network starting at the given address, having 24 bits allocated for the network prefix, and the remaining 8 bits reserved for host addressing. Addresses in the range 198.51.100.0 to 198.51.100.255 belong to this network. The IPv6 address specification 2001:db8::/32 is a large address block with 296 addresses, having a 32-bit routing prefix.[citation needed]
+
+For IPv4, a network may also be characterized by its subnet mask or netmask, which is the bitmask that when applied by a bitwise AND operation to any IP address in the network, yields the routing prefix. Subnet masks are also expressed in dot-decimal notation like an address. For example, 255.255.255.0 is the subnet mask for the prefix 198.51.100.0/24.[citation needed]
+
+Routing
+Computers and routers use routing tables in their operating system to forward IP packets to reach a node on a different subnetwork. Routing tables are maintained by manual configuration or automatically by routing protocols. End-nodes typically use a default route that points toward an ISP providing transit, while ISP routers use the Border Gateway Protocol to establish the most efficient routing across the complex connections of the global Internet.[citation needed]
+
+The default gateway is the node that serves as the forwarding host (router) to other networks when no other route specification matches the destination IP address of a packet.[158][159]
+Security
+Main article: Internet security
+Internet resources, hardware, and software components are the target of criminal or malicious attempts to gain unauthorized control to cause interruptions, commit fraud, engage in blackmail or access private information.[160]
+
+Malware
+Malware is malicious software used and distributed via the Internet. It includes computer viruses which are copied with the help of humans, computer worms which copy themselves automatically, software for denial of service attacks, ransomware, botnets, and spyware that reports on the activity and typing of users.[citation needed] Usually, these activities constitute cybercrime. Defense theorists have also speculated about the possibilities of hackers using cyber warfare using similar methods on a large scale.[161]
+
+Malware poses serious problems to individuals and businesses on the Internet.[162][163] According to Symantec's 2018 Internet Security Threat Report (ISTR), malware variants number has increased to 669,947,865 in 2017, which is twice as many malware variants as in 2016.[164] Cybercrime, which includes malware attacks as well as other crimes committed by computer, was predicted to cost the world economy US$6 trillion in 2021, and is increasing at a rate of 15% per year.[165] Since 2021, malware has been designed to target computer systems that run critical infrastructure such as the electricity distribution network.[166][163] Malware can be designed to evade antivirus software detection algorithms.[167][168]
+
+Surveillance
+Main article: Computer and network surveillance
+See also: Signals intelligence and Mass surveillance
+The vast majority of computer surveillance involves the monitoring of data and traffic on the Internet.[169] In the United States for example, under the Communications Assistance For Law Enforcement Act, all phone calls and broadband Internet traffic (emails, web traffic, instant messaging, etc.) are required to be available for unimpeded real-time monitoring by Federal law enforcement agencies.[170][171][172] Under the Act, all U.S. telecommunications providers are required to install packet sniffing technology to allow Federal law enforcement and intelligence agencies to intercept all of their customers' broadband Internet and VoIP traffic.[173][d]
+
+The large amount of data gathered from packet capture requires surveillance software that filters and reports relevant information, such as the use of certain words or phrases, the access to certain types of web sites, or communicating via email or chat with certain parties.[174] Agencies, such as the Information Awareness Office, NSA, GCHQ and the FBI, spend billions of dollars per year to develop, purchase, implement, and operate systems for interception and analysis of data.[175] Similar systems are operated by Iranian secret police to identify and suppress dissidents. The required hardware and software were allegedly installed by German Siemens AG and Finnish Nokia.[176]
+
+Censorship
+Main articles: Internet censorship and Internet freedom
+See also: Culture of fear and Great Firewall
+
+Internet censorship and surveillance by country (2018)[177][178][e][179][180]
+  Pervasive
+  Substantial
+  Selective
+  Little or none
+  Unclassified / No data
+Some governments, such as those of Myanmar, Iran, North Korea, Mainland China, Saudi Arabia and the United Arab Emirates, restrict access to content on the Internet within their territories, especially to political and religious content, with domain name and keyword filters.[181]
+
+In Norway, Denmark, Finland, and Sweden, major Internet service providers have voluntarily agreed to restrict access to sites listed by authorities. While this list of forbidden resources is supposed to contain only known child pornography sites, the content of the list is secret.[182]
+
+Many countries, including the United States, have enacted laws against the possession or distribution of certain material, such as child pornography, via the Internet but do not mandate filter software. Many free or commercially available software programs, called content-control software are available to users to block offensive specific on individual computers or networks in order to limit access by children to pornographic material or depiction of violence.[citation needed]
+
+Performance
+As the Internet is a heterogeneous network, its physical characteristics, including, for example the data transfer rates of connections, vary widely. It exhibits emergent phenomena that depend on its large-scale organization.[183]
+
+Traffic volume
+
+Raw data
+The volume of Internet traffic is difficult to measure because no single point of measurement exists in the multi-tiered, non-hierarchical topology. Traffic data may be estimated from the aggregate volume through the peering points of the Tier 1 network providers, but traffic that stays local in large provider networks may not be accounted for.[citation needed]
+
+Outages
+An Internet blackout or outage can be caused by local signaling interruptions. Disruptions of submarine communications cables may cause blackouts or slowdowns to large areas, such as in the 2008 submarine cable disruption. Less-developed countries are more vulnerable due to the small number of high-capacity links. Land cables are also vulnerable, as in 2011 when a woman digging for scrap metal severed most connectivity for the nation of Armenia.[184] Internet blackouts affecting almost entire countries can be achieved by governments as a form of Internet censorship, as in the blockage of the Internet in Egypt, whereby approximately 93%[185] of networks were without access in 2011 in an attempt to stop mobilization for anti-government protests.[186]
+
+Energy use
+Estimates of the Internet's electricity usage have been the subject of controversy, according to a 2014 peer-reviewed research paper that found claims differing by a factor of 20,000 published in the literature during the preceding decade, ranging from 0.0064 kilowatt hours per gigabyte transferred (kWh/GB) to 136 kWh/GB.[187] The researchers attributed these discrepancies mainly to the year of reference (i.e. whether efficiency gains over time had been taken into account) and to whether "end devices such as personal computers and servers are included" in the analysis.
+
+In 2011, academic researchers estimated the overall energy used by the Internet to be between 170 and 307 GW, less than two percent of the energy used by humanity. This estimate included the energy needed to build, operate, and periodically replace the estimated 750 million laptops, a billion smart phones and 100 million servers worldwide as well as the energy that routers, cell towers, optical switches, Wi-Fi transmitters and cloud storage devices use when transmitting Internet traffic.[188][189] According to a non-peer-reviewed study published in 2018 by The Shift Project (a French think tank funded by corporate sponsors), nearly 4% of global CO2 emissions could be attributed to global data transfer and the necessary infrastructure.[190] The study also said that online video streaming alone accounted for 60% of this data transfer and therefore contributed to over 300 million tons of CO2 emission per year, and argued for new "digital sobriety" regulations restricting the use and size of video files.[191]
