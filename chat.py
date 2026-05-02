@@ -41,7 +41,7 @@ def main():
         except Exception as e:
             logger.error(f"Interaction error: {e}")
 
-    print("\n👋 Goodbye!")
+    print("\n Goodbye!")
 
 if __name__ == "__main__":
     main()
