@@ -14,13 +14,4 @@ class AppConfig:
     # Text splitter settings
     CHUNK_SIZE: int = 500
     CHUNK_OVERLAP: int = 50
-    
-    # Generation settings
-    MAX_NEW_TOKENS: int = 50
-    TEMPERATURE: float = 0.1
-    TOP_K: int = 40
-    REPETITION_PENALTY: float = 1.2
-
-    @classmethod
-    def get_default(cls):
-        return cls()
+  
